@@ -1,4 +1,4 @@
-# TechnicalExam — Joshua Ilagan
+# Technical Exam — Joshua Ilagan
 
 A Laravel 13+ mini CRM module built for the Ensemble technical assessment.
 Implements a Client Management API with full CRUD, validation, repository pattern, and status filtering.
@@ -18,8 +18,8 @@ Implements a Client Management API with full CRUD, validation, repository patter
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/McFloofer/technical-part-1.git
-cd technical-part-1
+git clone https://github.com/McFloofer/technical-part-2.git
+cd technical-part-2
 ```
 
 ### 2. Install dependencies
